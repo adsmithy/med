@@ -52,7 +52,7 @@ blockquote{
 
 @media (min-width: 1200px) {
     blockquote {
-        padding-left: 100px;
-        padding-right: 100px;
+        margin-left: 100px;
+        margin-right: 100px;
     }
 }
