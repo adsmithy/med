@@ -49,3 +49,10 @@ blockquote{
         padding-right: 30px;
     }
 }
+
+@media (min-width: 1200px) {
+    blockquote {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
