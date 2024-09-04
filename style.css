@@ -33,3 +33,10 @@ body{
       padding-right: 10px;
     }
 }
+
+@media (min-width: 601px) and (max-width: 750px) {
+    body {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
