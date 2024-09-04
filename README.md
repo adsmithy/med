@@ -1,1 +1,1 @@
-# med
+This is my personal account of taking and passing the new National Registry Paramedic exam. This new exam went live on July 1st, 2024.
