@@ -36,6 +36,13 @@ blockquote{
     padding-left: 5px;
 }
 
+.image{
+    max-width: 100%; 
+    max-height: 100%; 
+    display: block; 
+    margin: auto;
+}
+
 @media (max-width: 600px) {
     body {
       padding-left: 10px;
